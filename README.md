@@ -24,6 +24,8 @@ This project is a CSV File Utility Tool with a Tkinter-based graphical user inte
 
 - Pandas Library
 
+- Tkinter Library
+
 ## Installation
 1. Clone the repository:
 
