@@ -82,7 +82,6 @@ This project is a CSV File Utility Tool with a Tkinter-based graphical user inte
 ![palindrome](https://github.com/user-attachments/assets/1be7eccd-f7ed-429f-b457-7c67d67e5b03)
 
 
-
 ## Edge Cases Handled
 
 - Missing or empty CSV file.
